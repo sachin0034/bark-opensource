@@ -11,3 +11,4 @@ sentencepiece
 soundfile; platform_system == "Windows"
 sox; platform_system != "Windows"
 transformers
+fairseq==latest_version
